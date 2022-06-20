@@ -10,7 +10,7 @@ export class NewsapiservicesService {
  //newsapiurl
   newsApiUrl ="https://newsapi.org/v2/top-headlines?country=in&apiKey=8102724356ba4f7c95a8c2ec6443b827"
   //technewsapiurl
-  techApiUrl ="https://newsapi.org/v2/top-headlines?country=in&category=technologyapiKey=8102724356ba4f7c95a8c2ec6443b827"
+  techApiUrl ="https://newsapi.org/v2/top-headlines?country=in&category=technologyfapiKey=8102724356ba4f7c95a8c2ec6443b827"
   //topheading ()
   topHeading():Observable<any>
   {
